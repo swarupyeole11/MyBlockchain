@@ -6,6 +6,7 @@ Follwing rules were kept in mind while develpoing the code :
 1) The hash was generated using the hashlib library in python
 2) The hash was ensured to nbe unique by oroviding current blockdata and the previous block has as the data to genrate hash for new block
 3) It was ensured that the basic essential prooperties of the blockchain nodes i.e the current node stores data fot the previous node was achieved in the code 
+4) The code can be seen in the file main.py.
 
 
 Sample Image : 
